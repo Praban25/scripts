@@ -1,0 +1,17 @@
+========================================
+LOG ANALYSIS SUMMARY REPORT
+========================================
+Date of Analysis:    2026-06-09
+Log File Name:       Zookeeper_2k.log
+Total Lines Processed: 1999
+Total Error Count:   13
+
+--- Top 5 Error Messages ---
+      1 ERROR [LearnerHandler-/10.10.34.13:57617:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+      1 ERROR [LearnerHandler-/10.10.34.13:57438:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+      1 ERROR [LearnerHandler-/10.10.34.13:57354:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+      1 ERROR [LearnerHandler-/10.10.34.12:59480:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+      1 ERROR [LearnerHandler-/10.10.34.12:59455:LearnerHandler@562] - Unexpected exception causing shutdown while sock still open
+
+--- Critical Events ---
+No critical events found.
